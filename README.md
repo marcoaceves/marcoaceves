@@ -23,8 +23,8 @@ I enjoy working on websites because it combines creativity and problem-solving t
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="75" height="75"/> 
 
+</div>
 
-                    </div>
 </div>
 
 <br>

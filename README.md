@@ -56,23 +56,23 @@ I enjoy working on websites because it combines creativity and problem-solving t
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">Simple Landing Page</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					<a href='https://marcoaceves.vercel.app/landing.html' target="_blank">
+						<img src="https://github.com/marcoaceves/marcoaceves/blob/main/simple_landing_page.png?raw=true" alt="simple-landing-page" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/marcoaceves/landing_page" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://marcoaceves.vercel.app/landing.html" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>HTML, CSS</strong></p>
+					<p>Simple Landing Page design built using HTML and CSS</p>
 				</div>
         </tr>
 	    <tr>

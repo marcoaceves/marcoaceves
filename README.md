@@ -39,22 +39,19 @@ I enjoy working on websites because it combines creativity and problem-solving t
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 1" height="100%" />
+					<a href='https://moonlightfaebooks.wordpress.com' target="_blank">
+						<img src="https://github.com/marcoaceves/marcoaceves/blob/main/wordpress_moonlight.png?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://moonlightfaebooks.wordpress.com" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>WordPress CMS, Blog Editing, Page Editing</strong></p>
           <p>
-						Description goes here
+						Blog Website built and edited using WordPress CMS. Template used for initial setup, then edited layout to fit desired website goals, and needs. 
 					</p>
 				</div>
 			</td>

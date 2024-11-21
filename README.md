@@ -37,7 +37,7 @@ I enjoy working on websites because it combines creativity and problem-solving t
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Project 1</h3>
+				<h3 align="center">WordPress Blog Moonlight Fae Book Reviews</h3>
 				<div align="center">  
 					<a href='https://moonlightfaebooks.wordpress.com' target="_blank">
 						<img src="https://github.com/marcoaceves/marcoaceves/blob/main/wordpress_moonlight.png?raw=true" alt="project 1" height="100%" />

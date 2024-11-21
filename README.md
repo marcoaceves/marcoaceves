@@ -72,7 +72,7 @@ I enjoy working on websites because it combines creativity and problem-solving t
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS</strong></p>
-					<p>Simple Landing Page design built using HTML and CSS</p>
+					<p>Simple Landing Page design built using HTML and CSS. Also used Photoshop to edit images.</p>
 				</div>
         </tr>
 	    <tr>

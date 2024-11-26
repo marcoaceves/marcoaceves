@@ -37,7 +37,7 @@ I enjoy working on websites because it combines creativity and problem-solving t
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">WordPress Blog Moonlight Fae Book Reviews</h3>
+				<h3 align="center">WordPress Blog Book Reviews</h3>
 				<div align="center">  
 					<a href='https://moonlightfaebooks.wordpress.com' target="_blank">
 						<img src="https://github.com/marcoaceves/marcoaceves/blob/main/wordpress_moonlight.png?raw=true" alt="project 1" height="100%" />
@@ -50,8 +50,8 @@ I enjoy working on websites because it combines creativity and problem-solving t
 						</a>
 					</p>
 					<p><strong>WordPress CMS, Blog Editing, Page Editing</strong></p>
-          <p>
-						Blog Website built and edited using WordPress CMS. Template used for initial setup, then edited layout to fit desired website goals, and needs. 
+          				<p>
+						Blog Website built and edited using WordPress CMS. 
 					</p>
 				</div>
 			</td>
@@ -77,23 +77,24 @@ I enjoy working on websites because it combines creativity and problem-solving t
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">JavaScript Nasa API Website</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    <a href='https://marco-aceves-portfolio.vercel.app/nasa.html' target="_blank">
+                        <img src="https://github.com/marcoaceves/marcoaceves/blob/main/nasa.png?raw=true" alt="Nasa_API" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
                         <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
+				<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+			</a>  
+			<a href="https://marco-aceves-portfolio.vercel.app/nasa.html" target="_blank">
+				<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+			</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS, Javascript, API</strong></p>
+		    <p>
+I built this website using JavaScript to handle API requests that fetch and display weekly images dynamically. It also includes a feature to request random images from the database, keeping the content fresh and engaging</p>
                 </div>
             </td>
             <td width="50%">

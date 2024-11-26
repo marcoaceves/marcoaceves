@@ -85,7 +85,7 @@ I enjoy working on websites because it combines creativity and problem-solving t
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://github.com/marcoaceves/NASA_API_Website/blob/main/README.md" target="_blank">
 				<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 			</a>  
 			<a href="https://marco-aceves-portfolio.vercel.app/nasa.html" target="_blank">

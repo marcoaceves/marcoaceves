@@ -32,6 +32,7 @@ I have a passion for creating responsive emails and working on email campaigns. 
 <hr>
 
 <!-- PROJECTS -->
+[![View My Projects](https://img.shields.io/badge/View%20My%20Projects-blue?style=for-the-badge)](https://github.com/yourusername?tab=repositories)
 
 <h2 align="center">Projects</h2>
 <div align="center">

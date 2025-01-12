@@ -32,8 +32,11 @@ I have a passion for creating responsive emails and working on email campaigns. 
 <hr>
 
 <!-- PROJECTS -->
-[![View My Projects](https://img.shields.io/badge/View%20My%20Projects-blue?style=for-the-badge)](https://github.com/yourusername?tab=repositories)
-
+<div align="center">
+  <a href="https://github.com/yourusername?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-blue?style=for-the-badge" alt="View My Projects" width="300" height="80">
+  </a>
+</div>
 <h2 align="center">Projects</h2>
 <div align="center">
 	<table>

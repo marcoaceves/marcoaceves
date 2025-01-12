@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marco Aceves</h1>
-<h3 align="center">A Content Editor, Email & Web Developer from Silvis, IL</h3>
-<h4 align="center">I have experience in managing Web Content via CMS ( Content Management System ) and HTML and CSS code. As a Web developer, I have experience creating web applications using object-oriented programming with Python, Flask, MySQL, Html, CSS, Bootstrap, Jinja, and JavaScript.
+<h3 align="center">Email Developer | Email Marketing Specialist| Web Developer from Silvis, IL</h3>
+<h4 align="center">I have experience developing HTML emails with the MJML frame work, HTML and CSS. As a Web developer, I have experience creating web applications using object-oriented programming with Python, Flask, MySQL, Html, CSS, Bootstrap, Jinja, and JavaScript.
 
-I enjoy working on websites because it combines creativity and problem-solving to bring ideas to life. Outside of work, I enjoy playing guitar, playing PC games, and getting lost in a good book—they’re my favorite ways to relax and stay inspired. </h4>
+I have a passion for creating responsive emails and working on email campaigns. I enjoy working on websites because it combines creativity and problem-solving to bring ideas to life.  </h4>
 
 <hr>
 
@@ -14,6 +14,7 @@ I enjoy working on websites because it combines creativity and problem-solving t
 <div align="center">
                 <br>
                     <div align="center" >  
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>

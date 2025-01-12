@@ -33,97 +33,10 @@ I have a passion for creating responsive emails and working on email campaigns. 
 
 <!-- PROJECTS -->
 <div align="center">
-  <a href="https://github.com/yourusername?tab=repositories">
+  <a href="https://marcoaceves.vercel.app">
     <img src="https://img.shields.io/badge/View%20My%20Projects-blue?style=for-the-badge" alt="View My Projects" width="300" height="80">
   </a>
 </div>
-<h2 align="center">Projects</h2>
-<div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-				<h3 align="center">WordPress Blog Book Reviews</h3>
-				<div align="center">  
-					<a href='https://moonlightfaebooks.wordpress.com' target="_blank">
-						<img src="https://github.com/marcoaceves/marcoaceves/blob/main/wordpress_moonlight.png?raw=true" alt="project 1" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://moonlightfaebooks.wordpress.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-					</p>
-					<p><strong>WordPress CMS, Blog Editing, Page Editing</strong></p>
-          				<p>
-						Blog Website built and edited using WordPress CMS. 
-					</p>
-				</div>
-			</td>
-			<td width="50%">
-				<h3 align="center">Simple Landing Page</h3>
-				<div align="center" >  
-					<a href='https://marcoaceves.vercel.app/landing.html' target="_blank">
-						<img src="https://github.com/marcoaceves/marcoaceves/blob/main/simple_landing_page.png?raw=true" alt="simple-landing-page" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/marcoaceves/landing_page" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://marcoaceves.vercel.app/landing.html" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-					</p>
-					 <p><strong>HTML, CSS</strong></p>
-					<p>Simple Landing Page design built using HTML and CSS. Also used Photoshop to edit images.</p>
-				</div>
-        </tr>
-	    <tr>
-            <td width="50%">
-                <h3 align="center">JavaScript Nasa API Website</h3>
-                <div align="center" >  
-                    <a href='https://marco-aceves-portfolio.vercel.app/nasa.html' target="_blank">
-                        <img src="https://github.com/marcoaceves/marcoaceves/blob/main/nasa.png?raw=true" alt="Nasa_API" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://github.com/marcoaceves/NASA_API_Website/blob/main/README.md" target="_blank">
-				<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-			</a>  
-			<a href="https://marco-aceves-portfolio.vercel.app/nasa.html" target="_blank">
-				<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-			</a>
-                    </p>
-                    <p><strong>HTML, CSS, Javascript, API</strong></p>
-		    <p>
-I built this website using JavaScript to handle API requests that fetch and display weekly images dynamically. It also includes a feature to request random images from the database, keeping the content fresh and engaging</p>
-                </div>
-            </td>
-            <td width="50%">
-                <h3 align="center">Project 4</h3>
-                <div align="center">  
-                    <a href='https://github.com/marcoaceves/manager_app' target="_blank">
-                        <img src="https://github.com/marcoaceves/marcoaceves/blob/main/ahf.png?raw=true" alt="project 4" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://github.com/marcoaceves/manager_app" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-                    </p>
-                    <p><strong>HTML, CSS, Javascript, Python, MySQL</strong></p>
-		    <p>Full Stack Web Application. Uses to Manage employees. Manager can assign task, and employees can update task statuses</p>
-                </div>	
-            </td>
-        </tr>
-	</table>
-</div>
-<br />
-<br />
 <hr>
 
 
